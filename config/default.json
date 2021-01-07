@@ -1,0 +1,6 @@
+{
+    "port": 5000,
+    "jwtSecret": "HJhjksVhjkfhajsk43gsajfsahg",
+    "mongoUri": "mongodb+srv://kazakova:jLCTz4DWJbkU3eK@cluster0.tmqep.mongodb.net/mern?retryWrites=true&w=majority",
+    "baseUrl": "http://localhost:5000"
+}
